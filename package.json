@@ -1,0 +1,26 @@
+{
+  "name": "portfoliofetchassignment4g7",
+  "version": "1.2.3",
+  "description": "This is database connectivity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/19MH1A04G7/databaseconnectivity.git"
+  },
+  "keywords": [
+    "1234"
+  ],
+  "author": "REDDY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/19MH1A04G7/databaseconnectivity/issues"
+  },
+  "homepage": "https://github.com/19MH1A04G7/databaseconnectivity#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.8"
+  }
+}
